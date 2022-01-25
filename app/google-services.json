@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760622013395",
+    "project_id": "team-project-mpti",
+    "storage_bucket": "team-project-mpti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760622013395:android:588259975b833fe8b32d26",
+        "android_client_info": {
+          "package_name": "com.example.team_project_mpti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760622013395-8dkupl22h8du17qh10mc4ag27ust7gas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVIWB8InufdLbWCMJ6tRqhTzBPKYScV8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760622013395-8dkupl22h8du17qh10mc4ag27ust7gas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
